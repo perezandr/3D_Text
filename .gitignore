@@ -1,0 +1,23 @@
+# Node.js / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnp*
+.env
+
+# Build output
+/dist/
+/build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Three.js specific
+*.log
+*.bak
+*.build
